@@ -1,0 +1,52 @@
+.Slider02 {
+    background-color: white;
+    height: 450px;
+}
+
+.dws-wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+ul.accordion {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0;
+}
+
+ul.accordion li {
+    width: 70px;
+    overflow: hidden;
+    padding: 1px 1px 0;
+    cursor: pointer;
+    display: block;
+    box-shadow: 1px 3px 15px #7e807e;
+    transition: all 1.5s;
+}
+
+ul.accordion img {
+    width: 500px;
+    height: 400px;
+}
+
+ul.accordion li:hover {
+    width: 500px;
+    box-shadow: 1px 3px 15px #36c5fa;
+    transition: all 1s;
+}
+
+ul.accordion li:nth-child(4) {
+    width: 500px;
+}
+
+ul.accordion:hover li:nth-child(4) {
+    width: 50px;
+}
+
+ul.accordion li:nth-child(4):hover {
+    width: 500px;
+}
+
+
+

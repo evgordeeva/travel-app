@@ -1,0 +1,39 @@
+.Login {
+    width: 300px;
+    height: 350px;
+    border: 2px solid #252380;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.mylogo {
+    width: 250px;
+    height: 100px;
+    margin-top: 15px;
+}
+
+p {
+    margin-top: 35px;
+}
+
+input {
+    width: 150px;
+    height: 25px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+
+#Login {
+    width: 80px;
+    background-color: limegreen;
+    border-radius: 3px;
+    color: black;
+    margin-right: 5px;
+}
+
+#Logout {
+    width: 70px;
+    background-color: orangered;
+    border-radius: 3px;
+    color: black;
+}

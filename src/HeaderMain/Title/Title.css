@@ -1,0 +1,19 @@
+.firstTitle {
+    left: -770px;
+    position: absolute;
+    right: -565px;
+    top: 37px;
+    bottom: 90%;
+    text-align: center;
+    transform: rotate(-90deg);
+    font-size: 8px;
+}
+
+.linkContainer {
+    display: flex;
+    justify-content: left;
+}
+
+.linkContainer span {
+    margin: 5px;
+}

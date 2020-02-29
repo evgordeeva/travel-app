@@ -1,0 +1,12 @@
+.Box {
+    display: flex;
+    margin: 70px 150px;
+}
+
+.inbox {
+    flex-direction: column;
+}
+
+.nestedbox {
+    width: 700px;
+}

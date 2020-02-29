@@ -1,0 +1,53 @@
+
+.backFor3 {
+    height: 500px;
+    background: #F7F7F7;
+}
+
+.wrapFor3 {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.infoBox {
+    flex-direction: column;
+    width: 350px;
+    height: 320px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+    margin-left: 30px;
+    margin-top: 70px;
+    background-color: white;
+}
+
+.images {
+    margin: 0;
+    height: 140px;
+    width: 304px;
+    border-radius: 5px 5px 0 0;
+}
+
+.text {
+    height: 180px;
+    border-radius: 0 0 5px 5px;
+    margin: 15px 10px 15px 10px;
+}
+
+.textTitle {
+    font-family: Montserrat;
+    font-size: 16px;
+    text-align: left;
+    color: #404040;
+
+}
+
+.cont {
+    font-family: Open Sans;
+    font-size: 10px;
+    padding-right: 20px;
+    text-align: left;
+    color: #9A9A9A;
+}

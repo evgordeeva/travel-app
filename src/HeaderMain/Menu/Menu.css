@@ -1,0 +1,13 @@
+ul {
+    padding-left: 10px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 25px;
+}
+
+li:hover {
+    color: red;
+}
